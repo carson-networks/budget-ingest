@@ -15,4 +15,12 @@ mise install
 go test ./...
 ```
 
+To run this service alone in Docker from your local changes (listens on `localhost:9448`):
+
+```bash
+make serve-local
+```
+
+`make serve-local-rebuild` rebuilds and restarts it; `make help` lists every target.
+
 The whole system is run and tested together through [budget-stack](https://github.com/carson-networks/budget-stack), not service by service. See [docs/dev-rules.md](docs/dev-rules.md).

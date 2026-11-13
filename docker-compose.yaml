@@ -1,0 +1,23 @@
+services:
+  budget-ingest:
+    container_name: budget-ingest
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 60s
+    hostname: budget-ingest
+    image: ghcr.io/carson-networks/budget-ingest:master
+    ports:
+      - "9448:9448"
+    profiles:
+      - serve
+
+  budget-ingest-local:
+    build: .
+    container_name: budget-ingest-local
+    image: ghcr.io/carson-networks/budget-ingest:local
+    hostname: budget-ingest
+    ports:
+      - "9448:9448"
+    profiles:
+      - serve-local
