@@ -1,5 +1,7 @@
 # Working rules
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 Rules for the implementing agent. They apply to every task in every phase. Back to the [overview](README.md).
 
 Each phase is a vertical slice across every system and ends with something a person can see working on the phone. Do not start a phase until the previous phase's exit check has passed.

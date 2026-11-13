@@ -1,5 +1,7 @@
 # Phase 7: web UI
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 [Overview](README.md) · [Working rules](working-rules.md) · [API contract](api-contract.md) · Previous: [Phase 6](phase-6-after-first-insert.md) · Next: [Phase 8](phase-8-hardening.md)
 
 Read the working rules before starting any task here.

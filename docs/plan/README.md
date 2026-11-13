@@ -1,6 +1,8 @@
 # LunchSync sync: plan
 
-Status: proposal · 2026-11-11
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
+Status: abandoned · 2026-11-13 (proposed 2026-11-11)
 
 ## Goal
 

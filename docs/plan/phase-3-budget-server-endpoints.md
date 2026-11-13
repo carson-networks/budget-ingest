@@ -1,5 +1,7 @@
 # Phase 3: budget-server endpoints, synced to ingest
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 [Overview](README.md) · [Working rules](working-rules.md) · [API contract](api-contract.md) · Previous: [Phase 2](phase-2-phone-test.md) · Next: [Phase 4](phase-4-accounts.md)
 
 Read the working rules before starting any task here.

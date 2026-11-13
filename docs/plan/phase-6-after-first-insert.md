@@ -1,5 +1,7 @@
 # Phase 6: after the first insert
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 [Overview](README.md) · [Working rules](working-rules.md) · [API contract](api-contract.md) · Previous: [Phase 5](phase-5-transactions.md) · Next: [Phase 7](phase-7-web-ui.md)
 
 Read the working rules before starting any task here.

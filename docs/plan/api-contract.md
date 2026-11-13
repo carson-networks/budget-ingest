@@ -1,5 +1,7 @@
 # LunchSync API contract (Lunch Money v2 subset)
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 What budget-ingest must serve at `https://api.lunchmoney.dev/v2`. Shapes are taken from the `V2*` structs in LunchSync's `Api/LunchMoneyAPIV2.swift`: request fields are what it encodes, response fields are what it decodes. Fields marked **required** are non-optional in the Swift decoder, so omitting them fails the whole call.
 
 ## Common

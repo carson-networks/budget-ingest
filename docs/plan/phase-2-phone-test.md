@@ -1,5 +1,7 @@
 # Phase 2: phone setup and test
 
+> **Abandoned 2026-11-13.** The FinanceKit entitlement was approved, so this LunchSync bridge will not be built. Kept for reference only; do not implement it.
+
 [Overview](README.md) · [Working rules](working-rules.md) · [API contract](api-contract.md) · Previous: [Phase 1](phase-1-external-endpoints.md) · Next: [Phase 3](phase-3-budget-server-endpoints.md)
 
 Read the working rules before starting any task here.
