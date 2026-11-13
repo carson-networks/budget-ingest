@@ -1,7 +1,0 @@
-dir: "{{.InterfaceDir}}"
-filename: "mock_{{.InterfaceName}}.go"
-structname: "Mock{{.InterfaceName}}"
-template: testify
-template-data:
-  unroll-variadic: true
-packages: {}
